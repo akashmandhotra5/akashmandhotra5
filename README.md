@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Akash Mandhotra</h1>
+<h1>Hi , I'm Akash Mandhotra</h1>
 <p>Experienced Magento Developer Transitioning into Data Science</p>
 
 
